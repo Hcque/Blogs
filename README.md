@@ -1,6 +1,4 @@
 # Blogs
 
-These are my review notes for textbook:  
-Introduction to Algorithms. 3rd ed. MIT Press, 2009.
-
+These are my review notes in the process of learning algorithms.
 Happy reading.
